@@ -8,15 +8,14 @@
 
 	<!-- device specific -->
 	<project name="Sony-Stock-CM/android_device_sony_z3" path="device/sony/z3" />
-	<project name="Sony-Stock-CM/android_device_sony_z3c" path="device/sony/z3c" />
-	<project name="Sony-Stock-CM/android_device_sony_sirius" path="device/sony/sirius" />
-	<project name="Sony-Stock-CM/android_device_sony_castor_windy" path="device/sony/castor_windy" />
+	<project name="LineageOS/android_device_sony_z3c" path="device/sony/z3c" />
+	<project name="LineageOS/android_device_sony_sirius" path="device/sony/sirius" />
 
 	<!-- platform specific -->
-	<project name="Sony-Stock-CM/android_device_sony_shinano-common" path="device/sony/shinano-common" />
+	<project name="LineageOS/android_device_sony_shinano-common" path="device/sony/shinano-common" />
 
 	<!-- device common -->
-	<project name="Sony-Stock-CM/android_device_sony_msm8974-common" path="device/sony/msm8974-common" />
+	<project name="LineageOS/android_device_sony_msm8974-common" path="device/sony/msm8974-common" />
 
 	<!-- sony common -->
 	<project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" />
