@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 	<!-- vendor files -->
-	<project name="Sony-Stock-CM/proprietary_vendor_sony" path="vendor/sony" />
+	<project name="x-keita/proprietary_vendor_sony" path="vendor/sony" />
 
 	<!-- kernel -->
-	<project name="Sony-Stock-CM/android_kernel_sony_msm8974" path="kernel/sony/msm8974"  />
+	<project name="x-keita/android_kernel_sony_msm8974" path="kernel/sony/msm8974"  />
 
 	<!-- device specific -->
-	<project name="Sony-Stock-CM/android_device_sony_z3" path="device/sony/z3" />
-	<project name="LineageOS/android_device_sony_z3c" path="device/sony/z3c" />
-	<project name="LineageOS/android_device_sony_sirius" path="device/sony/sirius" />
+	<project name="x-keita/android_device_sony_z3" path="device/sony/z3" />
+	<project name="x-keita/android_device_sony_z3c" path="device/sony/z3c" />
+	<project name="x-keita/android_device_sony_z3dual" path="device/sony/z3dual" />
 
 	<!-- platform specific -->
-	<project name="LineageOS/android_device_sony_shinano-common" path="device/sony/shinano-common" />
+	<project name="x-keita/android_device_sony_shinano-common" path="device/sony/shinano-common" />
 
 	<!-- device common -->
-	<project name="LineageOS/android_device_sony_msm8974-common" path="device/sony/msm8974-common" />
+	<project name="x-keita/android_device_sony_msm8974-common" path="device/sony/msm8974-common" />
 
 	<!-- sony common -->
 	<project name="LineageOS/android_device_sony_common" path="device/sony/common" remote="github" />
